@@ -1,0 +1,6 @@
+c:\users\sergey\documents\visual studio 2017\Projects\Stream\Stream\bin\Debug\Stream.exe.config
+c:\users\sergey\documents\visual studio 2017\Projects\Stream\Stream\bin\Debug\Stream.exe
+c:\users\sergey\documents\visual studio 2017\Projects\Stream\Stream\bin\Debug\Stream.pdb
+c:\users\sergey\documents\visual studio 2017\Projects\Stream\Stream\obj\Debug\Stream.csprojResolveAssemblyReference.cache
+c:\users\sergey\documents\visual studio 2017\Projects\Stream\Stream\obj\Debug\Stream.exe
+c:\users\sergey\documents\visual studio 2017\Projects\Stream\Stream\obj\Debug\Stream.pdb
